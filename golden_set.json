@@ -1,0 +1,7 @@
+[
+  {"pregunta": "¿Qué significa el código de error ATL-4012?", "documento_id_esperado": "api"},
+  {"pregunta": "¿Cada cuánto se renuevan las claves de acceso de los servicios?", "documento_id_esperado": "seguridad"},
+  {"pregunta": "¿En qué días y horarios se puede desplegar a producción?", "documento_id_esperado": "despliegues"},
+  {"pregunta": "¿Quién atiende una alerta si la guardia primaria no responde?", "documento_id_esperado": "incidentes"},
+  {"pregunta": "¿Dónde se ve en qué servicio se demoró una solicitud lenta?", "documento_id_esperado": "observabilidad"}
+]
